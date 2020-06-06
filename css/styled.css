@@ -1,0 +1,42 @@
+body {
+  background-color: #e9e7e7;
+}
+
+#home {
+  color: #17a2b8;
+}
+
+#home img {
+  max-width: 40px;
+}
+
+.cardS {
+  box-shadow: 5px 5px 10px 5px #999999;
+  max-width: 380px;
+  margin: 10px 0 10px 0;
+}
+
+.cardS img {
+  width: 100%;
+  height: 180px;
+}
+
+.card-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 0.8em;
+}
+
+#pesquisa {
+  border-right: none;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+#buttonPesq {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
